@@ -155,3 +155,8 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 
 * [some containers on Gitlab](https://gitlab.com/300481)
 * [rancher-provisioner, incubating](https://github.com/300481/rancher-provisioner)
+
+## other Profiles
+
+* [Xing](https://www.xing.com/profile/Dennis_Riemenschneider6/cv)
+* [LinkedIn, in creation](https://www.linkedin.com/in/dennis-riemenschneider/)
