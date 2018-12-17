@@ -150,3 +150,8 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 * Linux Professional Institute Certification (LPIC) 1
 * Linux Professional Institute Certification (LPIC) 2
 * ITIL Foundation
+
+## other Projects
+
+* [some containers on Gitlab](https://gitlab.com/300481)
+* [rancher-provisioner, incubating](https://github.com/300481/rancher-provisioner)
