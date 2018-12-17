@@ -56,7 +56,7 @@ Projects done / in progress:
   * debugging lots of PHP applications (move from PHP 5 to 7)
   * Apache Webserver reconfigurations (move from 2.2 to 2.4)
 
-### Software-Suppport, Laboratory Information Management Systems | 2014 - 2016
+### Software-Support, Laboratory Information Management Systems | 2014 - 2016
 _[MIPS Deutschland GmbH & Co. KG](https://www.mips.be/de/de/)_ | [Eltville, Germany](https://www.google.de/maps/place/Eltville+am+Rhein/@50.0440123,8.0913648,14z/data=!4m13!1m7!3m6!1s0x47bdea8db7a717c9:0x422435029b0a1d0!2sEltville+am+Rhein!3b1!8m2!3d50.0289744!4d8.119173!3m4!1s0x47bdea8db7a717c9:0x422435029b0a1d0!8m2!3d50.0289744!4d8.119173)
 
 * Software-Service and Support for the Linux based Laboratory Information Management Sytem PROMED & X-PROMED
