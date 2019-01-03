@@ -39,8 +39,10 @@ _[Netlution GmbH](https://www.netlution.de)_ | [Mannheim, Germany](https://www.g
 
 Projects done / in progress:
 
-* migrate an on-premise development environment (the whole DevOps Stack f.e. Jenkins, Jira, Git, Docker, Ansible ...) to the cloud (Azure)
-  * focus on Kubernetes and Serverless
+* develop compliance validated blueprints for cloud infrastructure as code
+  * focus on Terraform, CHEF InSpec, Microsoft Azure, AWS in long term
+* migrate an on-premise development environment (the whole DevOps Stack f.e. Jenkins, Jira, Git, Docker, Ansible ...) to the cloud (Microsoft Azure)
+  * focus on Kubernetes, Helm, Terraform, Jenkins, Ansible, Serverless
 * build a worldwide, scalable, Kubernetes based Log-Collection/Monitoring/Alerting infrastructure on on-premise Cloud (Open-Stack) and Google Cloud Platform
   * focus on Kubernetes, Helm, Kafka, ELK Stack, GitHub Enterprise, Jenkins
   * build all containers with custom Dockerfiles
