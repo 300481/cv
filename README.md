@@ -33,14 +33,14 @@ My dream would be to build a fully automated, always available and always update
 
 ## Professional / Work Experience
 
-### Linux Consultant | 2016 - present
+### IT Consultant | 2016 - present
 
 _[Netlution GmbH](https://www.netlution.de)_ | [Mannheim, Germany](https://www.google.de/maps/place/Mannheim/@49.5000192,8.4320359,12z/data=!4m13!1m7!3m6!1s0x4797cc24518e3f45:0xb1e4fe7aa406e687!2sMannheim!3b1!8m2!3d49.4874592!4d8.4660395!3m4!1s0x4797cc24518e3f45:0xb1e4fe7aa406e687!8m2!3d49.4874592!4d8.4660395)
 
 Projects done / in progress:
 
 * develop compliance validated blueprints for cloud infrastructure as code
-  * focus on Terraform, CHEF InSpec, Microsoft Azure, AWS in long term
+  * focus on Terraform, CHEF InSpec, Test Kitchen, Microsoft Azure, AWS in long term
 * migrate an on-premise development environment (the whole DevOps Stack f.e. Jenkins, Jira, Git, Docker, Ansible ...) to the cloud (Microsoft Azure)
   * focus on Kubernetes, Helm, Terraform, Jenkins, Ansible, Serverless
 * build a worldwide, scalable, Kubernetes based Log-Collection/Monitoring/Alerting infrastructure on on-premise Cloud (Open-Stack) and Google Cloud Platform
