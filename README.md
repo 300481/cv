@@ -144,6 +144,7 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 * Containers and Container Orchestration (Kubernetes, Helm, Docker Swarm, ...)
 * Config Management / Automation (Ansible, Jenkins, etc ...)
 * Scripting (Bash, Python, Ruby, ...)
+* Programming (Golang, Pascal/Delphi)
 * DevOps Mindset
 * Agile methods (Scrum, Kanban) and corresponding tools usage (Jira, Confluence, Git, ...)
 * Usage of Cloud Providers (AWS, Azure, GCP)
@@ -165,9 +166,9 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 ## other Projects
 
 * [some containers on Gitlab](https://gitlab.com/300481)
-* [rancher-provisioner, incubating](https://github.com/300481/rancher-provisioner)
+* [3141](https://github.com/300481/3141)
 
 ## other Profiles
 
 * [Xing](https://www.xing.com/profile/Dennis_Riemenschneider6/cv)
-* [LinkedIn, in creation](https://www.linkedin.com/in/dennis-riemenschneider/)
+* [LinkedIn](https://www.linkedin.com/in/dennis-riemenschneider/)
