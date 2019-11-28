@@ -1,6 +1,6 @@
 # CV
 
-<img src="https://raw.githubusercontent.com/300481/autorok/master/pics/architecture.png" height="20" width="20" align="right">
+<img src="https://raw.githubusercontent.com/300481/autorok/master/pics/architecture.png" height="1006" width="925" align="right">
 
 ## Personal Details
 
