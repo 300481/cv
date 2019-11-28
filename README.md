@@ -33,7 +33,19 @@ My dream would be to build a fully automated, always available and always update
 
 ## Professional / Work Experience
 
-### IT Consultant | 2016 - present
+### Platform Engineer | 2019 - present
+
+_[KION Information Management Services GmbH](https://www.kiongroup.com/IT/)_ | [Frankfurt am Main, Germany](https://www.google.de/maps/place/KION+GROUP+AG/@50.0558315,8.5888705,325m/data=!3m1!1e3!4m5!3m4!1s0x47bdbd9b1dfe3c09:0x1f9106dbbc04e1cf!8m2!3d50.0557814!4d8.5885801)
+
+* provide, develop and operate internal development and deployment tools (Jenkins, Jira, Git, Confluence, SonarQube, Fisheye, ...)
+* migrate applications to Public Cloud with IaC (terraform) and CI/CD (Jenkins)
+* design and build platforms
+* advise internal developers, especially for continuous deployment on Kubernetes clusters
+* advise operations for infrastructure provisioning with IaC to provide platforms for software delivery
+* discuss and develop CI/CD solutions with all needed parties (Dev, Ops, Architects, Network, Security)
+* live DevOps mindset
+
+### IT Consultant | 2016 - 2019
 
 _[Netlution GmbH](https://www.netlution.de)_ | [Mannheim, Germany](https://www.google.de/maps/place/Mannheim/@49.5000192,8.4320359,12z/data=!4m13!1m7!3m6!1s0x4797cc24518e3f45:0xb1e4fe7aa406e687!2sMannheim!3b1!8m2!3d49.4874592!4d8.4660395!3m4!1s0x4797cc24518e3f45:0xb1e4fe7aa406e687!8m2!3d49.4874592!4d8.4660395)
 
