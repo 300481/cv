@@ -152,9 +152,10 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 
 ### Hard Skills
 
-* Linux administration (Debian-based, RedHat-based, SUSE, RacherOS, CoreOS, ...)
 * Containers and Container Orchestration (Kubernetes, Helm, Docker Swarm, ...)
+* Linux administration (Debian-based, RedHat-based, SUSE, RacherOS, CoreOS, ...)
 * Config Management / Automation (Ansible, Jenkins, etc ...)
+* Infrastructure as Code (terraform)
 * Scripting (Bash, Python, Ruby, ...)
 * Programming (Golang, Pascal/Delphi)
 * DevOps Mindset
@@ -177,8 +178,11 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 
 ## other Projects
 
+* [autorok](https://github.com/300481/autorok)
+* [rancheros-firewall](https://github.com/300481/rancheros-firewall)
+* [github2pubsub](https://github.com/300481/github2pubsub)
+* [pubsub2http](https://github.com/300481/pubsub2http)
 * [some containers on Gitlab](https://gitlab.com/300481)
-* [3141](https://github.com/300481/3141)
 
 ## other Profiles
 
