@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/300481/autorok/master/pics/architecture.png" height="251" width="231" align="right">
+<img src="https://github.com/300481/cv/blob/master/pics/me.jpg" height="251" width="231" align="right">
 
 
 
