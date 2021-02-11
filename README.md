@@ -154,9 +154,9 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 
 ### Hard Skills
 
-* Containers and Container Orchestration (Kubernetes, Helm, Docker Swarm, ...)
+* Containers and Container Orchestration (Kubernetes, Helm, Podman, Docker, Docker Swarm, ...)
 * Linux administration (Debian-based, RedHat-based, SUSE, RacherOS, CoreOS, ...)
-* Config Management / Automation (Ansible, Jenkins, etc ...)
+* Config Management / Automation (Ansible, Jenkins, ArgoCD, FluxCD, ...)
 * Infrastructure as Code (terraform)
 * Scripting (Bash, Python, Ruby, ...)
 * Programming (Golang, Pascal/Delphi)
@@ -181,12 +181,14 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 ## other Projects
 
 * [autorok](https://github.com/300481/autorok)
-* [rancheros-firewall](https://github.com/300481/rancheros-firewall)
+* [datacrypt](https://github.com/300481/datacrypt)
+* [shield](https://github.com/300481/shield)
 * [github2pubsub](https://github.com/300481/github2pubsub)
 * [pubsub2http](https://github.com/300481/pubsub2http)
-* [some containers on Gitlab](https://gitlab.com/300481)
+* [...](https://github.com/300481/)
 
 ## other Profiles
 
+* [Medium](https://dennis-riemenschneider.medium.com/)
 * [Xing](https://www.xing.com/profile/Dennis_Riemenschneider6/cv)
 * [LinkedIn](https://www.linkedin.com/in/dennis-riemenschneider/)
