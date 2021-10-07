@@ -44,6 +44,10 @@ _[KION Information Management Services GmbH](https://www.kiongroup.com/IT/)_ | [
 * design and build platforms
 * advise internal developers, especially for continuous deployment on Kubernetes clusters
 * advise operations for infrastructure provisioning with IaC to provide platforms for software delivery
+* develop shared Terraform modules with implementation of governance and security policies
+* develop Terraform deployment pipelines
+* develop Helm charts and Helm deployment pipelines
+* provide an enterprise Git server solution based on a public cloud SaaS, migrate Git repositories to this solution
 * discuss and develop CI/CD solutions with all needed parties (Dev, Ops, Architects, Network, Security)
 * live DevOps mindset
 
