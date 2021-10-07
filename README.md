@@ -177,6 +177,8 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 * Linux Professional Institute Certification (LPIC) 1
 * Linux Professional Institute Certification (LPIC) 2
 * ITIL Foundation
+* Hashicorp Certified: [Terraform Associate](https://www.credly.com/badges/04c268f1-31a8-4f4b-af14-dee49369bd55/linked_in_profile)
+* Microsoft Certified: [Azure Fundamentals](https://www.credly.com/badges/014afaa4-f791-42b0-9975-5034ce7e6801?source=linked_in_profile)
 
 ## other Projects
 
