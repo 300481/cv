@@ -35,7 +35,7 @@ My dream would be to build a fully automated, always available and always update
 
 ## Professional / Work Experience
 
-### Software IT Specialist Open Source
+### Software IT Specialist Open Source | 2022 - present
 
 _[IBM Deutschland GmbH](https://www.ibm.com/de-de)_ | [Frankfurt am Main, Germany](https://www.google.com/maps/place/IBM+Deutschland+GmbH/@50.1256264,8.586242,16.5z/data=!4m5!3m4!1s0x47bd09ef5f14d4db:0x9f7f108bbd5f1cb9!8m2!3d50.128743!4d8.5793197)
 
