@@ -183,10 +183,11 @@ _Secondary School Heimburg_ | [Heimburg, Germany](https://www.google.com/maps/pl
 * ITIL Foundation
 * Hashicorp Certified: [Terraform Associate](https://www.credly.com/badges/04c268f1-31a8-4f4b-af14-dee49369bd55/linked_in_profile)
 * Microsoft Certified: [Azure Fundamentals](https://www.credly.com/badges/014afaa4-f791-42b0-9975-5034ce7e6801?source=linked_in_profile)
+* CNCF: [Certified Kubernetes Application Developer](https://www.credly.com/badges/0b581d00-5434-419f-b06d-6a51fee665dc?source=linked_in_profile)
 
 ## other Projects
 
-* [autorok](https://github.com/300481/autorok)
+* [artifacthub2github](https://github.com/300481/artifacthub2github)
 * [datacrypt](https://github.com/300481/datacrypt)
 * [shield](https://github.com/300481/shield)
 * [github2pubsub](https://github.com/300481/github2pubsub)
