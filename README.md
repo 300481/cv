@@ -35,7 +35,13 @@ My dream would be to build a fully automated, always available and always update
 
 ## Professional / Work Experience
 
-### Platform Engineer | 2019 - present
+### Software IT Specialist Open Source
+
+_[IBM Deutschland GmbH](https://www.ibm.com/de-de)_ | [Frankfurt am Main, Germany](https://www.google.com/maps/place/IBM+Deutschland+GmbH/@50.1256264,8.586242,16.5z/data=!4m5!3m4!1s0x47bd09ef5f14d4db:0x9f7f108bbd5f1cb9!8m2!3d50.128743!4d8.5793197)
+
+* tbd
+
+### Platform Engineer | 2019 - 2022
 
 _[KION Information Management Services GmbH](https://www.kiongroup.com/IT/)_ | [Frankfurt am Main, Germany](https://www.google.de/maps/place/KION+GROUP+AG/@50.0558315,8.5888705,325m/data=!3m1!1e3!4m5!3m4!1s0x47bdbd9b1dfe3c09:0x1f9106dbbc04e1cf!8m2!3d50.0557814!4d8.5885801)
 
